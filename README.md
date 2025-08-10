@@ -11,10 +11,7 @@ This is the in-memory prototype for the Music School Management System (MSMS). I
 
 ## How to Run
 1. Ensure you have Python installed
-2. Run the application:
-   ```bash
-   python MSMS.py
-   ```
+2. Run the application
 3. Follow the on-screen menu options
 
 ## Design Choices
