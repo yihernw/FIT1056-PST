@@ -24,3 +24,6 @@ This is the in-memory prototype for the Music School Management System (MSMS). I
 - Persistent data storage
 - More powerful input validation
 - Additional features such as lesson scheduling
+
+## Github Link
+- https://github.com/yihernw/FIT1056-PST
